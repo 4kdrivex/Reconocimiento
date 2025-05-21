@@ -1,5 +1,6 @@
 # Reconocimiento
-Este repositorio contiene una herramienta de reconocimiento hecha en python
+Este repositorio contiene una herramienta de reconocimiento hecha en python al momento de clonar el repositorio se debe dar permisos de ejecución
+y ejecutar con permisos root para que la herramienta pueda funcionar correctamente.
 
 ⚠️ Advertencia de uso
 Esta herramienta ha sido desarrollada únicamente con fines educativos y de pruebas de seguridad autorizadas.
